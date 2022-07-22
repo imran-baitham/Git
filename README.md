@@ -4,3 +4,5 @@
 
 <h2>Git Delete Branch</h2>
 <pre><code class="text">git branch --delete branchname</code></pre>
+
+<img src="https://devconnected.com/wp-content/uploads/2019/12/featured-10.png" alt="imran baitham"/>

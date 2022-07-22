@@ -12,10 +12,10 @@
 <pre><code class="text">git checkout -b feature<br/>
 Switched to new branch 'feature'</code></pre>
 
-<p>i. You can inspect existing branches by running the “git branch” command with the “-a” option for all branches.</p>
+<p>⭕️ You can inspect existing branches by running the “git branch” command with the “-a” option for all branches.</p>
 <pre><code class="text">git branch -a</code></pre>
 
-<p>ii. To get commits SHA from your history, you have to use the “git log” with the “–oneline” option.</p>
+<p>⭕️ To get commits SHA from your history, you have to use the “git log” with the “–oneline” option.</p>
 <pre><code class="text">git log --oneline --graph</code></pre>
 
 <!-- ===================================================== -->

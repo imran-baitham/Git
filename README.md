@@ -6,7 +6,8 @@
 
 <h2>Create Git branch using checkout</h2>
 <pre><code class="text">git checkout -b branch-name</code></pre>
-<br/>
+
+<b>Example</b>
 <pre><code class="text">git checkout -b feature<br/>
 Switched to new branch 'feature'</code></pre>
 

@@ -4,7 +4,7 @@
 
 <img src="https://devconnected.com/wp-content/uploads/2019/12/featured-10.png" alt="imran baitham"/>
 
-<h2><li>Create Git branch using checkout</li></h2>
+<h2>1. Create Git branch using checkout</h2>
 <pre><code class="text">git checkout -b branch-name</code></pre>
 
 <b>Example</b>

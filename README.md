@@ -24,3 +24,10 @@ Switched to new branch 'feature'</code></pre>
 
 <h2>Git Delete Branch</h2>
 <pre><code class="text">git branch --delete branchname</code></pre>
+
+
+<h2>The default branch has been renamed!</h2>
+<p>master is now named develop<br/>
+If you have a local clone, you can update it by running the following commands.</p>
+
+<pre><code class="text">git branch --delete branchname</code></pre>

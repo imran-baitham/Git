@@ -22,5 +22,5 @@ Switched to new branch 'feature'</code></pre>
 
 <!-- ===================================================== -->
 
-<!-- <h2>Git Delete Branch</h2>
-<pre><code class="text">git branch --delete branchname</code></pre> -->
+<h2>Git Delete Branch</h2>
+<pre><code class="text">git branch --delete branchname</code></pre>

@@ -69,3 +69,9 @@ If you have a local clone, you can update it by running the following commands.<
 <h2>Step 7: View commit history</h2>    
 <pre><code class="text"> git log</code></pre>
 <p>The commit history can be viewed in different ways by using the `git log` command. A local repository named bash has been used in this tutorial to test the commands used in this tutorial</p>
+
+<h2>Mearge local to main branch</h2>    
+<p>If you wish to set tracking information for this branch you can do so with:</p>
+<pre><code class="text"> git branch --set-upstream-to=origin/master branch-name</code></pre>
+
+ 

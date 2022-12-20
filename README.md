@@ -50,3 +50,17 @@ Switched to new branch 'feature'</code></pre>
 If you have a local clone, you can update it by running the following commands.</p>
 
 <pre><code class="text">git branch --delete branchname</code></pre>
+
+<!-- ==================================================================================== -->
+
+<h2>Step 4: Create and Switch Branch</h2>    
+<p>Now, create and switch to the new branch using the provided command.</p>
+<pre><code class="text"> git switch -c branch-name</code></pre>
+
+<h2>Step 5: List Branches</h2>    
+<pre><code class="text"> git branch -a</code></pre>
+<p>“git branch” to display all branches with the help of the “-a” flag.</p>
+
+<h2>Step 6: Push Git Branch to Remote Repo</h2>    
+<pre><code class="text"> git push –set-upstream origin branch-name</code></pre>
+<p>git push –set-upstream origin branch-name” command. This blog demonstrated the method to push a new Git branch to the remote repo on GitHub.</p>

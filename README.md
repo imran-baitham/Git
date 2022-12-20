@@ -1,5 +1,5 @@
 <img src="https://git-scm.com/images/logo@2x.png" alt="imran baitham"/>
-<h1 class="text-center">Star the repo like</h1>
+<h1 class="text-center">Star the repo like and share 🙏</h1>
 <h1>😍 Git</h1>
 <p>( fast version control )</p>
 

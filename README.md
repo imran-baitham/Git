@@ -6,7 +6,10 @@
 
 <img src="https://devconnected.com/wp-content/uploads/2019/12/featured-10.png" alt="imran baitham"/>
 
-<h2>1. Create Git branch using checkout</h2>
+<h2>Git Init</h2>    
+<pre><code class="text">git init</code></pre>
+
+<h2>1. Create Git branch using checkout</h2>    
 <pre><code class="text">git checkout -b branch-name</code></pre>
 
 <b>Example</b>

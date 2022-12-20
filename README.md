@@ -1,4 +1,5 @@
 <img src="https://git-scm.com/images/logo@2x.png" alt="imran baitham"/>
+<h1 class="text-center">Star the repo like</h1>
 <h1>😍 Git</h1>
 <p>( fast version control )</p>
 
@@ -64,3 +65,7 @@ If you have a local clone, you can update it by running the following commands.<
 <h2>Step 6: Push Git Branch to Remote Repo</h2>    
 <pre><code class="text"> git push –set-upstream origin branch-name</code></pre>
 <p>git push –set-upstream origin branch-name” command. This blog demonstrated the method to push a new Git branch to the remote repo on GitHub.</p>
+
+<h2>Step 7: View commit history</h2>    
+<pre><code class="text"> git log</code></pre>
+<p>The commit history can be viewed in different ways by using the `git log` command. A local repository named bash has been used in this tutorial to test the commands used in this tutorial</p>
